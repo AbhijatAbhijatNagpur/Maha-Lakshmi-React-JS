@@ -1,1 +1,1 @@
-# Maha-Lakshmi-React-JS
+Mahalakshmi Project Repo
